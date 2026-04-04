@@ -1,0 +1,27 @@
+{
+  "createBooking": {
+    "firstname": "Rimjhim",
+    "lastname": "Agrawal",
+    "totalprice": 5000,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2023-01-01",
+      "checkout": "2023-02-01"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "updateBooking": {
+    "firstname": "Rim",
+    "lastname": "Agrawal",
+    "totalprice": 10000,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2023-01-01",
+      "checkout": "2023-02-01"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "partialUpdate": {
+    "firstname": "Sunita"
+  }
+}
